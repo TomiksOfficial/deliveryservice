@@ -4,4 +4,8 @@
 
 Запуск производить с параметрами запуска:
 _cityDistrict - район доставки в виде цифр(почтового индекса)
-_firstDeliveryDateTime - время первой доставки в формате yyyy-MM-dd HH:mm:ss 
+_firstDeliveryDateTime - время первой доставки в формате yyyy-MM-dd HH:mm:ss
+
+Вывод результата осуществится либо в папке с программой, либо по относительному пути в папке с программой, указанном в settings.json в файл result.json
+
+Пример запуска: EffectiveMobileTest.exe _cityDistrict 160025 _firstDeliveryDateTime "2024-10-21 11:05:00"
