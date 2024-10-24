@@ -1,0 +1,38 @@
+﻿[
+  {
+    "order_id": 1,
+    "weight": 5,
+    "district": "160025",
+    "order_time": "2024-10-21 11:11:11"
+  },
+  {
+    "order_id": 2,
+    "weight": 3,
+    "district": "160024",
+    "order_time": "2024-10-23 10:12:31"
+  },
+  {
+    "order_id": 3,
+    "weight": 4,
+    "district": "160025",
+    "order_time": "2024-10-22 14:41:21"
+  },
+  {
+    "order_id": 4,
+    "weight": 14,
+    "district": "160021",
+    "order_time": "2024-10-22 12:16:15"
+  },
+  {
+    "order_id": 5,
+    "weight": 11,
+    "district": "160024",
+    "order_time": "2024-10-23 13:12:44"
+  },
+  {
+    "order_id": 6,
+    "weight": 12,
+    "district": "160021",
+    "order_time": "2024-10-22 22:22:22"
+  }
+]
